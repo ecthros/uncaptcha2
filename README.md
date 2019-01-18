@@ -1,4 +1,4 @@
-<p align="center"> :warning: This code works on the most recent version of ReCaptcha. Only use on sites you control for educational purposes. :warning:</p>
+<p align="center"> :warning: This code works on the most recent version of ReCaptchav2. Only use on sites you control for educational purposes. :warning:</p>
 
 Created in April 2017, [unCaptcha](https://github.com/ecthros/uncaptcha) achieved 85% accuracy defeating Google's ReCaptcha. After the release of this work, Google released an update to ReCaptcha with the following major changes:
 * Better browser automation detection
